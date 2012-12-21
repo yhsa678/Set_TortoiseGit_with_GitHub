@@ -7,3 +7,4 @@ Set_TortoiseGit_with_GitHub
 + Git study articles - 2012-12-20
 > 1. Understanding Git Conceptually - http://www.sbf5.com/~cduan/technical/git/
 > 2. https://www.edx.org/static/content-berkeley-cs169x~2012_Fall/handouts/tutorials_and_resources.b94b1b56ab4d.html
+> 3. Use **git+dropbox** to work - http://stackoverflow.com/questions/1960799/using-gitdropbox-together-effectively
